@@ -4,3 +4,5 @@ created randomizer.py to protect the clients PII. The owner gave us permission t
 information in the csv's
 
 Step 2 was creating the code to parse through the folder that was holding the data and then transform the data based on the information from the client and writing the code to upload the clients information to google drive/ google sheets.
+
+Step 3 in the project was creating a program for recurring projects. The business is a local business and I was asked to do the rest until the end of the year!
