@@ -1,0 +1,42 @@
+Invitee Name,Invitee Email,Text Reminder Number,Event Type Name,Start Date & Time,End Date & Time,Canceled,Price
+Client 1,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Boarding Drop-off,04-21-2024,04-21-2024,False,0.0
+Client 2,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Boarding Pickup,04-25-2024,04-25-2024,False,0.0
+Client 3,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Service Animal,04-07-2024,04-07-2024,False,150.0
+Client 4,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-01-2024,04-01-2024,False,135.0
+Client 6,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-21-2024,04-21-2024,False,135.0
+Client 8,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Service Animal,04-09-2024,04-09-2024,False,150.0
+Client 9,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-02-2024,04-02-2024,False,135.0
+Client 10,anonymized@k954dogtraining.com,xxx-xxx-xxxx,2 Dog Session,04-07-2024,04-07-2024,False,215.0
+Client 11,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Boarding Drop-off,04-12-2024,04-12-2024,False,0.0
+Client 13,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-07-2024,04-07-2024,False,135.0
+Client 14,anonymized@k954dogtraining.com,xxx-xxx-xxxx,2 Dog Session,04-08-2024,04-08-2024,False,215.0
+Client 15,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-07-2024,04-07-2024,False,135.0
+Client 17,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-07-2024,04-07-2024,False,135.0
+Client 18,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-14-2024,04-14-2024,False,135.0
+Client 19,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-07-2024,04-07-2024,False,135.0
+Client 20,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-10-2024,04-10-2024,False,135.0
+Client 21,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-14-2024,04-14-2024,False,135.0
+Client 23,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Service Animal,04-17-2024,04-17-2024,False,150.0
+Client 24,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Behavior Modification,04-17-2024,04-17-2024,False,150.0
+Client 25,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-21-2024,04-21-2024,False,135.0
+Client 26,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Behavior Modification,04-21-2024,04-21-2024,False,150.0
+Client 27,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-21-2024,04-21-2024,False,135.0
+Client 28,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-21-2024,04-21-2024,False,135.0
+Client 29,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-22-2024,04-22-2024,False,135.0
+Client 30,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Advanced Obedience,04-22-2024,04-22-2024,False,135.0
+Client 31,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Service Animal,04-28-2024,04-28-2024,False,150.0
+Client 32,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Service Animal,05-05-2024,05-05-2024,False,150.0
+Client 34,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-28-2024,04-28-2024,False,135.0
+Client 36,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-24-2024,04-24-2024,False,135.0
+Client 37,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,04-28-2024,04-28-2024,False,135.0
+Client 38,anonymized@k954dogtraining.com,xxx-xxx-xxxx,FREE Phone Consultation,04-23-2024,04-23-2024,False,0.0
+Client 39,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-28-2024,04-28-2024,False,135.0
+Client 40,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,04-28-2024,04-28-2024,False,135.0
+Client 41,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Board & Train Drop-off,04-29-2024,04-29-2024,False,0.0
+Client 42,anonymized@k954dogtraining.com,xxx-xxx-xxxx,2 Dog Session,04-30-2024,04-30-2024,False,215.0
+Client 43,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Boarding Drop-off,04-26-2024,04-26-2024,False,0.0
+Client 44,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Behavior Modification,05-01-2024,05-01-2024,False,150.0
+Client 45,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Behavior Modification,04-30-2024,04-30-2024,False,150.0
+Client 46,anonymized@k954dogtraining.com,xxx-xxx-xxxx,2 Dog Session,05-05-2024,05-05-2024,False,215.0
+Client 47,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Basic Obedience,05-05-2024,05-05-2024,False,135.0
+Client 48,anonymized@k954dogtraining.com,xxx-xxx-xxxx,Puppy Preschool,05-05-2024,05-05-2024,False,135.0
