@@ -1,10 +1,13 @@
-Step 1 was getting the data needed for us to clean up, thiss data was provided by the owner
-from calendly. After getting the data we created a project folder to hold the csv's, I then
-created randomizer.py to protect the clients PII. The owner gave us permission to keep their
-information in the csv's
+Calendly Data Pipeline for Client Invoicing
+Objective: Built an ETL pipeline to automate data extraction, anonymization, and reporting for a local dog training business using Python and Google Sheets.
 
-Step 2 was creating the code to parse through the folder that was holding the data and then transform the data based on the information from the client and writing the code to upload the clients information to google drive/ google sheets.
+Step 1: Data Extraction and Anonymization
+Extracted appointment data from the client's Calendly account and stored it in CSV files within a structured project folder. Developed a Python script, randomizer.py, to anonymize personally identifiable information (PII) while retaining the integrity of the dataset. Client consent was obtained to store non-sensitive data for internal processing.
 
-Step 3 in the project was creating a program for recurring projects. The business is a local business and I was asked to do the rest until the end of the year!
+Step 2: Data Transformation and Upload
+Utilized Python libraries (e.g., Pandas, CSV) to parse and clean the extracted data. Transformed it into a structured format suitable for invoicing and reporting. Implemented Google’s API to automate the upload of the transformed CSV files directly to the client’s Google Drive and Google Sheets accounts, enabling real-time access and collaboration.
+
+Step 3: Recurring Process Automation
+Created a program to automate the recurring data extraction, transformation, and upload process for future projects. This allowed the business to manage invoicing and reporting efficiently until the end of the year without manual intervention.
 
 IF YOU WANT TO SEE THE ROADMAP YOU CAN FIND IT UNDER WIKI :-)
